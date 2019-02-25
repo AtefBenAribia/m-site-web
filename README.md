@@ -1,1 +1,5 @@
-mon site web pour le cour git
+/*************** README ********************/
+
+Mon site web pour le cour git
+
+/********************************************/
